@@ -64,7 +64,6 @@ A Random Forest Classifier was trained in Python to predict `Customer_Status` (C
 
 ---
 
-## 📂 Repository Structure
 Customer-Retention-Analysis/
 ├── Data/
 │   └── telecom_churn_data.csv
