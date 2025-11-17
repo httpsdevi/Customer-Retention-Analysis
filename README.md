@@ -64,17 +64,7 @@ A Random Forest Classifier was trained in Python to predict `Customer_Status` (C
 
 ---
 
-Customer-Retention-Analysis/
-├── Data/
-│   └── telecom_churn_data.csv
-├── SQL_Scripts/
-│   ├── 01_Create_Database.sql
-│   └── 02_Clean_and_Transform.sql
-├── Python_Model/
-│   └── Churn_Prediction_Model.ipynb
-├── Power_BI/
-│   └── Customer Retention Dashboard.pbix
-└── Business Process Analysis - Case Study.pdf
+
 
 
 ## Thank you so much for checking out my project. Hope you like it!
